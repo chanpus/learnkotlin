@@ -2,6 +2,7 @@ package com.example.myapplication
 
 fun main(){
     println(max2(3 ,5))
+    println("how commit")
 
 }
 
